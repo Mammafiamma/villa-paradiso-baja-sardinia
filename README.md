@@ -2,7 +2,7 @@
 # 🌊 Villa Paradiso | High-Performance Baja Sardinia Retreat
 
 [![Location: Sardinia, Italy](https://img.shields.io/badge/Location-Baja_Sardinia_Costa_Smeralda-blue.svg)](https://maps.app.goo.gl/fzjUBm3Xs1zK1dLH8?g_st=ic)
-[![Status: Booking Open](https://img.shields.io/badge/Status-Available-brightgreen.svg)](https://www.airbnb.com/h/villaparadisobajasardinialuxury))
+[![Status: Booking Open](https://img.shields.io/badge/Status-Available-brightgreen.svg)](https://www.airbnb.com/h/villaparadisobajasardinialuxury)
 [![Network: Starlink](https://img.shields.io/badge/Connectivity-Starlink_Satellite_Internet-orange.svg)](#-connectivity-the-tech-edge)
 
 Experience a premium blend of Mediterranean luxury and high-performance living. **Villa Paradiso** is the ultimate basecamp for digital nomads, tech teams, and families seeking the pinnacle of the Sardinian lifestyle with zero compromises on connectivity.
