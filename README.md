@@ -1,7 +1,7 @@
 # villa-paradiso-baja-sardinia
 # 🌊 Villa Paradiso | Exclusive Baja Sardinia Tech Retreat
 
-[![Location: Sardinia, Italy](https://img.shields.io/badge/Location-Costa_Smeralda-blue.svg)](https://goo.gl/maps/your-link)
+[![Location:Baja Sardinia, Costa Smeralda, Italy](https://img.shields.io/badge/Location-Costa_Smeralda-blue.svg)](https://goo.gl/maps/your-link)
 [![Status: Booking Open](https://img.shields.io/badge/Status-Booking_Open-brightgreen.svg)](https://villaparadisobaja.my.canva.site)
 [![Wi-Fi: Ultra Fast](https://img.shields.io/badge/Connectivity-Fiber_Ready-orange.svg)](#amenities)
 
