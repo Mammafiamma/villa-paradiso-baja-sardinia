@@ -1,0 +1,17 @@
+{
+  "property_id": "villa-paradiso-sardinia",
+  "status": "accepting_deployments",
+  "season": "Summer 2026",
+  "system_specs": {
+    "network": "Starlink Satellite",
+    "avg_download_mbps": 200,
+    "latency_ms": 35,
+    "workstations": 4
+  },
+  "endpoints": {
+    "booking": "https://airbnb.com/h/villaparadisobajasardinialuxury",
+    "visual_tour": "https://villaparadisobaja.my.canva.site",
+    "location": "Baja Sardinia, Costa Smeralda, IT"
+  },
+  "automated_message": "System online. Ready for your remote workation. Ping us on Airbnb to initialize booking."
+}
